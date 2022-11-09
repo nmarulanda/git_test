@@ -1,2 +1,3 @@
 # git_test
-fisfnowept; 
+My first GitHub repo!
+Hello Odin!
